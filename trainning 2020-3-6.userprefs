@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ShortCutGimmick.cs">
+    <Files>
+      <File FileName="Assets/start.cs" Line="33" Column="3" />
+      <File FileName="Assets/Enemymovetuto.cs" Line="1" Column="1" />
+      <File FileName="Assets/playertutorial.cs" Line="23" Column="36" />
+      <File FileName="Assets/Audiocontrol.cs" Line="1" Column="1" />
+      <File FileName="Assets/ShortCutGimmick.cs" Line="26" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

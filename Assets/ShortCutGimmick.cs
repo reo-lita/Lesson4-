@@ -5,12 +5,13 @@ using UnityEngine;
 public class ShortCutGimmick : MonoBehaviour {
 	public AudioSource audiosolve;
 	public AudioClip solve;
-	private bool Gimmickswitch = false; //二回音が鳴らないようにするスイッチ
+	private bool Gimmickswitch; //二回音が鳴らないようにするスイッチ
 
 	public GameObject ShortCut;
 	// Use this for initialization
 	void Start () {
 		audiosolve = gameObject.AddComponent<AudioSource> ();
+		Gimmickswitch = false;
 	}
 	
 	// Update is called once per frame
